@@ -71,5 +71,5 @@ Power strips from a suitable 5V power supply (current depends on LED count).
 4. Download the `.ino` file (or copy code into a new sketch)
 5. Change WiFi credentials in the code if needed:
    ```cpp
-   const char* ssid = "TP-Link";
-   const char* password = "Tp13_Aqq";
+   const char* ssid = "Your_WiFi_SSID";
+   const char* password = "YOUR_WIFI_Password";
