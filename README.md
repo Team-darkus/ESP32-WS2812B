@@ -24,7 +24,7 @@ Features include multiple effects, scheduling, night mode, WiFi auto-reconnect w
   - 23:00 – 06:00: brightness limited to 10%
   - User can override with confirmation button
 - **WiFi**:
-  - Connects to your network (SSID: `TP-Link`, password: `Tp13_Aqq` – change in code)
+  - Connects to your network (SSID: `Your_WiFi_SSID`, password: `YOUR_WIFI_Password` – change in code)
   - Auto-reconnect every 10 seconds if connection lost
   - If no connection for 20 seconds, starts fallback AP (`LED_Controller` / `12345678`)
   - Manual reconnect button in web interface
